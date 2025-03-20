@@ -1,5 +1,5 @@
 {
-  "originHash" : "9d0ecd4f5c2dbfa52155f9e8568aec96af7567164d792267f8640061c688ca27",
+  "originHash" : "721feff60a6378017244df22313701075b29d5e8fb76be15f4b9b07ad82c27b9",
   "pins" : [
     {
       "identity" : "combine-schedulers",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jup-ag/swift-case-paths",
       "state" : {
-        "revision" : "727c42f7506c74587c3708792d2a56f50cdaa98c",
-        "branch" : "macro-less"
+        "branch" : "feature/macro-less",
+        "revision" : "727c42f7506c74587c3708792d2a56f50cdaa98c"
       }
     },
     {
