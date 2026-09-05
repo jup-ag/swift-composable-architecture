@@ -1,5 +1,5 @@
 {
-  "originHash" : "721feff60a6378017244df22313701075b29d5e8fb76be15f4b9b07ad82c27b9",
+  "originHash" : "d30f9c3c32c24bddafcbc8551a7a46c3b9567b36a87a2dc986d26d60318c69d5",
   "pins" : [
     {
       "identity" : "combine-schedulers",
@@ -58,10 +58,10 @@
     {
       "identity" : "swift-dependencies",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-dependencies",
+      "location" : "https://github.com/jup-ag/swift-dependencies",
       "state" : {
-        "revision" : "85f89f5d0ce5a18945f65371d40ca997da85a41a",
-        "version" : "1.6.3"
+        "branch" : "feature/macro-less",
+        "revision" : "bb5d026a73f4f7ad3cda04a9be7d737eb1c3fb74"
       }
     },
     {
@@ -112,10 +112,10 @@
     {
       "identity" : "swift-perception",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-perception",
+      "location" : "https://github.com/jup-ag/swift-perception",
       "state" : {
-        "revision" : "8d52279b9809ef27eabe7d5420f03734528f19da",
-        "version" : "1.4.1"
+        "branch" : "feature/macro-less",
+        "revision" : "30b3f92c8de293027b9dfd262526053f65d44799"
       }
     },
     {
